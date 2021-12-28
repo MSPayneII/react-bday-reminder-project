@@ -7,13 +7,11 @@
   <img alt="License: ISC" src="https://api.netlify.com/api/v1/badges/b8152b14-8bd6-4fc2-b39b-e5d98d1874b4/deploy-status" />
 </p>
 
-
 ## Reason for choosing this project:
 
 The this was a hands-on React project provided by the John Smilga as part of his Udemy React Tutorial and Projects Course. This project was designed to help students become familiar with the useState hook
 
 ### 🏠 [Homepage](https://mpayne-react-bday-project.netlify.app/)
-
 
 ## Technologies:
 

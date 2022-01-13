@@ -9,7 +9,7 @@
 
 ## Reason for choosing this project:
 
-The this was a hands-on React project provided by the John Smilga as part of his Udemy React Tutorial and Projects Course. This project was designed to help students become familiar with the useState hook
+The this was a hands-on React project provided by John Smilga as part of his Udemy React Tutorial and Projects Course. This project was designed to help students become familiar with the useState hook
 
 ### 🏠 [Homepage](https://mpayne-react-bday-project.netlify.app/)
 
